@@ -1,0 +1,26 @@
+﻿  ConsoleApplication9.cpp
+C:\Users\user\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\user\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(33,17): error C2001: newline в константе
+C:\Users\user\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(34,2): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "COORD"
+C:\Users\user\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(46,9): warning C4309: =: усечение константного значения
+C:\Users\user\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(48,9): warning C4309: =: усечение константного значения
+C:\Users\user\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(50,9): warning C4309: =: усечение константного значения
+C:\Users\user\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(52,9): warning C4309: =: усечение константного значения
+C:\Users\user\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(53,40): error C2059: синтаксическая ошибка: /
+C:\Users\user\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(56,9): warning C4309: =: усечение константного значения
+C:\Users\user\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(78,22): error C2059: синтаксическая ошибка: /
+C:\Users\user\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(81,3): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\user\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(161,9): error C2001: newline в константе
+C:\Users\user\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(163,21): error C2059: синтаксическая ошибка: ;
+C:\Users\user\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(188,2): error C2059: синтаксическая ошибка: }
+C:\Users\user\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(188,4): error C2059: синтаксическая ошибка: while
+C:\Users\user\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(189,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\user\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(189,2): error C2365: system: переопределение; предыдущим определением было "функция"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(1211): message : см. объявление "system"
+C:\Users\user\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(190,7): error C2143: синтаксическая ошибка: отсутствие ";" перед "<<"
+C:\Users\user\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(190,7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\user\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(191,9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\user\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(191,2): error C2365: system: переопределение; предыдущим определением было "функция"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(1211): message : см. объявление "system"
+C:\Users\user\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(192,1): error C2059: синтаксическая ошибка: }
+C:\Users\user\source\repos\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(192,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
