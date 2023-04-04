@@ -1,5 +1,3 @@
-# snake
-
-Game made in Microsoft Visual Studio
+# snakE
 
 Programming language C++
